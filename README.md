@@ -12,3 +12,5 @@ This GitHub repository contains a comprehensive analysis of transactional data f
 + *Python Code*: Includes Python scripts and Jupyter Notebooks used for data preprocessing, analysis, and visualization.
 
 By leveraging the power of data analysis and visualization techniques, this project aims to empower stakeholders with actionable insights to drive business growth and success in the competitive online retail market.
+
+Impoertant: - The code.md file conatins the code as well as graphs and explanation.
