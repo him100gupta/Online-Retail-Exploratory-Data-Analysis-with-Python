@@ -13,4 +13,4 @@ This GitHub repository contains a comprehensive analysis of transactional data f
 
 By leveraging the power of data analysis and visualization techniques, this project aims to empower stakeholders with actionable insights to drive business growth and success in the competitive online retail market.
 
-Impoertant: - The code.md file conatins the code as well as graphs and explanation.
+Important: - The code.md file conatins the code as well as graphs and explanation.
